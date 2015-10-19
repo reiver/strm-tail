@@ -1,5 +1,5 @@
 /*
-A driver for the go-strm library, that provides the TAIL Ender command.
+A driver for the go-strm library, that provides the TAIL command.
 
 TAIL returns rows from the end of the data table stream.
 
