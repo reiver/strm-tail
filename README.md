@@ -1,6 +1,6 @@
 # strm-tail
 
-A driver for the **go-strm** Go programming language library, that provides the **TAIL** Ender command.
+A driver for the **go-strm** Go programming language library, that provides the **TAIL** command.
 
 **TAIL** returns rows from the end of the data table stream.
 
